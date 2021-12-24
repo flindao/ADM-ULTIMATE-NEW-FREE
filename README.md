@@ -3,7 +3,7 @@
 * UPDATE 14/12/2021 - Update Proyecto
 * ADM-Manager Ultimate (Version New-Ultimate)
 ```
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/blob/master/Imagenes/ADM_ULTIMATE_NEW_FREE.png)
+![logo](https://github.com/flindao/ADM-ULTIMATE-NEW-FREE/blob/master/Imagenes/ADM_ULTIMATE_NEW_FREE.png)
 
 **Manager Script**
 
@@ -22,7 +22,7 @@
 ```
 ## :book: Installation
 
-apt-get update -y; apt-get upgrade -y; wget --no-check-certificate https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
+apt-get update -y; apt-get upgrade -y; wget --no-check-certificate https://raw.githubusercontent.com/flindao/ADM-ULTIMATE-NEW-FREE/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
 
 ```
 ADM-MANAGER (las dependencias faltantes se instalarán automáticamente)
@@ -33,7 +33,7 @@ ADM-MANAGER (las dependencias faltantes se instalarán automáticamente)
 
 **VERSION: r6.6.7**
 
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/versao
+https://raw.githubusercontent.com/flindao/ADM-ULTIMATE-NEW-FREE/master/versao
 
 ## :octocat: Credits
 
@@ -41,5 +41,5 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/m
 2. illuminati Dev Team - Contributor Update 
 
 ```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+☆ https://t.me/startnetplus [  ⃘⃤꙰✰ ] ☆
 ```
